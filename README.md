@@ -1,7 +1,3 @@
-# laoyyu
-
-用 TypeScript 和 Python 做 AI 应用。
-
 <!-- CONTRIB:BEGIN -->
 ## 开源
 
